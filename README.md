@@ -25,7 +25,12 @@ The model is trained to classify the following car types:
 - Further information check requirement.txt
 
 ## 📂 Dataset
-Ensure the dataset is organized into folders corresponding to the seven classes. Each folder should contain images of the respective car type.
+
+Ensure the dataset is organized into folders corresponding to the seven classes.  
+Each folder should contain images of the respective car type.
+
+You can download the dataset used for this project from the following link:  
+🔗 [Cars Image Dataset on Kaggle](https://www.kaggle.com/datasets/kshitij192/cars-image-dataset)
 
 ## 📊 Results
 The trained model achieves high accuracy in classifying car images into the specified classes. Below are the performance metrics:
